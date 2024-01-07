@@ -1,0 +1,26 @@
+/* HeroSection.css */
+.hero-section {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(to right, #000000, #343a40); /* Black-Blue Gradient Background */
+    color: #ffffff; /* White Text Color */
+  }
+  
+  .hero-section h1 {
+    font-size: 3em;
+    color: #007BFF; /* Teal Heading Color */
+    margin-bottom: 20px;
+  }
+  
+  .hero-section p {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+  }
+  
+  .hero-section button {
+    font-size: 1.2em;
+    background-color: #007BFF; /* Teal Button Color */
+    border-color: #007BFF; /* Teal Border Color */
+    padding: 10px 20px;
+  }
+  
